@@ -12,11 +12,12 @@
 
 ## 🎨 Preview
 
-### Tampilan Desktop
-![Navbar Desktop](./IMG_20260712_135527.jpg)
-
-### Tampilan Mobile
+### screenshot 1
 ![Navbar Mobile](./IMG_20260712_135542.jpg)
+
+
+### screenshot 2
+![Navbar Desktop](./IMG_20260712_135527.jpg)
 
 ---
 

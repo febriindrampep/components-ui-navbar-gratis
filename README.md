@@ -1,31 +1,46 @@
-# 🚀 Components UI Gratis
+# 🚀 Navbar Component - Gratis
 
 ![GitHub stars](https://img.shields.io/github/stars/febriindrampep/components-ui-gratis?style=social)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6)
 
-> Kumpulan komponen UI modern dan gratis untuk proyek Next.js Anda.
-
----
-
-## 📦 Komponen Tersedia
-
-| Komponen | Deskripsi | Status |
-|----------|-----------|--------|
-| **Navbar** | Navigasi responsif, dark theme, animasi, dropdown menu | ✅ Siap |
-| **Hero** | Hero section sederhana dengan CTA ke GitHub | ✅ Siap |
+> Komponen **Navbar** modern, responsif, dan siap pakai untuk proyek Next.js Anda. **Gratis!**
 
 ---
 
-## ⚡ Cara Menggunakan
+## 🎨 Preview
+
+### Tampilan Desktop
+![Navbar Desktop](./IMG_20260712_135527.jpg)
+
+### Tampilan Mobile
+![Navbar Mobile](./IMG_20260712_135542.jpg)
+
+---
+
+## ✨ Fitur Navbar
+
+| Fitur | Keterangan |
+|-------|------------|
+| **Fully Responsif** | Tampilan optimal di mobile, tablet, dan desktop |
+| **Dark Theme** | Latar hitam dengan teks putih, tidak terpengaruh tema sistem |
+| **Animasi Halus** | Efek hover, transisi dropdown, dan animasi hamburger |
+| **Dropdown Menu** | Dukungan sub-menu dengan animasi scale & opacity |
+| **Active State** | Indikator halaman aktif dengan garis bawah gradien |
+| **Scroll Effect** | Navbar berubah saat discroll (blur & shadow) |
+| **Logo + Teks** | Branding yang jelas dengan ikon dan nama |
+| **Accessibility** | ARIA labels dan dukungan keyboard |
+| **TypeScript** | Full type safety untuk pengembangan yang lebih aman |
+| **Lucide Icons** | Ikon modern dan ringan |
+
+---
+
+## 📥 Cara Menggunakan
 
 ### 1. Salin Komponen
-Buka file komponen di atas, klik **Raw**, lalu salin seluruh kode.
+Buka file `Navbar.tsx` di repository ini, klik **Raw**, lalu salin seluruh kode.
 
 ### 2. Pindahkan ke Proyek
-Salin file ke folder `components/` proyek Next.js Anda.
-
-### 3. Install Dependensi
-```bash
-npm install lucide-react
+Buat folder `components/` jika belum ada, lalu tempel file `Navbar.tsx` di dalamnya.
